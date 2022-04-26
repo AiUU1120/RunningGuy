@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Object
+  - Enemies
+  - Deadline
+  - Null
+  - Wifus
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3811576799
+    locked: 0
+  - name: Map3
+    uniqueID: 3269281419
+    locked: 0
+  - name: Map2
+    uniqueID: 1626963761
+    locked: 0
+  - name: Map
+    uniqueID: 201150741
+    locked: 0
+  - name: Player
+    uniqueID: 2499352943
+    locked: 0
+  - name: Map-1
+    uniqueID: 2668321615
+    locked: 0
+  - name: enemies
+    uniqueID: 375664967
+    locked: 0
+  - name: Object
+    uniqueID: 1822729999
+    locked: 0
